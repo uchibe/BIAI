@@ -8,5 +8,5 @@ Materials for the intensive lectures at Kyushu Institute of Technology
 4. [Policy Search and Actor-Critic Methods](slides/kyutech20190909-4.pdf)
 
 ## Codes
-1. [One state problem](https://drive.google.com/file/d/1iyKpZXV5LpOlX3xAEL24m_atLjdqEtrM/view?usp=sharing)
-2. [Cliff environment](https://drive.google.com/file/d/1EG3IUb10DRWWSC6Dy6c6bOn4Ptc70L6k/view?usp=sharing)
+1. [One state problem](https://colab.research.google.com/drive/1iyKpZXV5LpOlX3xAEL24m_atLjdqEtrM#scrollTo=jhRBcPpsz0x5)
+2. [Cliff environment](https://colab.research.google.com/drive/14CHB0xJ7qKOZt2vdhi7D3E0EKau9rdML)
