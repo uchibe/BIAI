@@ -10,6 +10,8 @@ matplotlib = "*"
 jupyter-http-over-ws = "*"
 gym = "*"
 scipy = "*"
+nbconvert = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
