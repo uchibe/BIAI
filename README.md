@@ -6,7 +6,7 @@ Materials for the intensive lectures at Kyushu Institute of Technology
 2. [Markov decision process (MDP)](https://github.com/uchibe/BIAI/blob/main/slides/kyutech20220826-02.pdf)
 3. [Model-based RL](https://github.com/uchibe/BIAI/blob/main/slides/kyutech20220826-03.pdf)
 4. [Model-free RL](https://github.com/uchibe/BIAI/blob/main/slides/kyutech20220826-04.pdf)
-5. [Introduction to deel RL](https://github.com/uchibe/BIAI/blob/main/slides/kyutech20220826-05.pdf)
+5. [Introduction to deep RL](https://github.com/uchibe/BIAI/blob/main/slides/kyutech20220826-05.pdf)
 
 ## Codes
 You can run the following codes on Google Colab if you have a Google account. 
