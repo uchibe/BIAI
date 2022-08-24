@@ -6,12 +6,15 @@ name = "pypi"
 [packages]
 jupyter = "*"
 numpy = "*"
-matplotlib = "*"
 jupyter-http-over-ws = "*"
 gym = "*"
 scipy = "*"
-nbconvert = "*"
 ipywidgets = "*"
+nbconvert = "*"
+mistune = "*"
+pillow = "*"
+matplotlib = "*"
+requests = "*"
 
 [dev-packages]
 
